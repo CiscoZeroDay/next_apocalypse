@@ -15,12 +15,12 @@ You’ve been hired as a penetration tester to evaluate the security of the Medi
 - The docker images is available on my docker hub.
 <pre>Link : https://hub.docker.com/repositories/razafindraibe</pre>
 
-<pre>sudo docker pull razafindraibe/next_apocalypse:v1.0</pre>
+<pre>sudo docker pull razafindraibe/next_apocalypse:latest</pre>
 
 ![alt text](images/1.png)
 
 - Run the container:
-<pre>sudo docker run -d --name next_apocalypse -p 3000:3000 razafindraibe/next_apocalypse:v1.0</pre>
+<pre>sudo docker run -d --name next_apocalypse -p 3000:3000 razafindraibe/next_apocalypse:latest</pre>
 
 ![alt text](images/2.png)
 
