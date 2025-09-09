@@ -69,7 +69,7 @@ But, on the footer page, i found the framework that was used
 
 ![alt text](images/6.png)
 
-<pre>Next js 15.3.8</pre>
+<pre>Next js 13.5.8</pre>
 
 Maybe, it's a hint...
 
